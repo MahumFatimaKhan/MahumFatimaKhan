@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahumFatimaKhan
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m doing bachelors in Computer Science from Institute of Business Administration
 - 📫 How to reach me: Email: mfkmahum@gmail.com
 
